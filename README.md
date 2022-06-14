@@ -1,2 +1,2 @@
-# C-digo-Tesis
+# Código-Tesis
 Modelo 1, Heurística 1
